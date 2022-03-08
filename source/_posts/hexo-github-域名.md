@@ -7,7 +7,7 @@ tags:
 - 域名
 - github
 categories:
-  -hexo部署
+- hexo部署
 ---
 
 # 什么是 Hexo？
