@@ -9,7 +9,7 @@ description: 'Blog|乔治|George'
 keywords: Blog|乔治|George
 author: 乔治George
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'

@@ -1,12 +1,13 @@
 ---
 title: hexo+github+域名
 date: 2022-03-08 13:14:35
-tags:
+index_img: https://rmt.dogedoge.com/fetch/fluid/storage/actions-deploy/cover.png?w=480&fmt=webp
+tags: 
 - hexo
 - 域名
 - github
-Category:
-- hexo部署
+categories:
+  -hexo部署
 ---
 
 # 什么是 Hexo？
