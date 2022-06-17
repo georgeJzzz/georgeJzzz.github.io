@@ -1,12 +1,13 @@
 ---
 title: linux部署脚本sh
 date: 2022-06-17 15:11:22
-index_img: https://www.linuxmi.com/wp-content/uploads/2020/10/Garuda-Linux-Golden-Eagle-201007-2020-10-11-09-03-15-1024x576.png 
+index_img:	https://www.linuxmi.com/wp-content/uploads/2020/10/Garuda-Linux-Golden-Eagle-201007-2020-10-11-09-03-15-1024x576.png 
 tags:
 - 部署脚本
 - 一键脚本
 categories:
   - Bash
+---
 
 # python 安装
 ```bash
