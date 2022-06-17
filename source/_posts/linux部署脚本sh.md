@@ -1,7 +1,7 @@
 ---
 title: linux部署脚本sh
 date: 2022-06-17 15:11:22
-index_img: https://image.baidu.com/search/detail?ct=503316480&z=undefined&tn=baiduimagedetail&ipn=d&word=%E9%83%A8%E7%BD%B2.png&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=undefined&hd=undefined&latest=undefined&copyright=undefined&cs=519521377,1872512981&os=2240382411,743765763&simid=519521377,1872512981&pn=2&rn=1&di=7108135681917976577&ln=1879&fr=&fmq=1655454444047_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&is=0,0&istype=0&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=0&objurl=https%3A%2F%2Fgimg2.baidu.com%2Fimage_search%2Fsrc%3Dhttp%253A%252F%252Fwww.zhangyutong.net%252Fuploads%252Fimg%252F20191125%252F1574666456299317.png%26refer%3Dhttp%253A%252F%252Fwww.zhangyutong.net%26app%3D2002%26size%3Df9999%2C10000%26q%3Da80%26n%3D0%26g%3D0n%26fmt%3Dauto%3Fsec%3D1658046442%26t%3D131a7947022e54eb8802d8fc7dd38f32&rpstart=0&rpnum=0&adpicid=0&nojc=undefined&dyTabStr=MCw1LDEsNiw0LDMsNyw4LDIsOQ%3D%3D
+index_img: https://www.linuxmi.com/wp-content/uploads/2020/10/Garuda-Linux-Golden-Eagle-201007-2020-10-11-09-03-15-1024x576.png
 tags:
 - 部署脚本
 - 一键脚本
