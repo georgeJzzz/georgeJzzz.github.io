@@ -425,9 +425,9 @@ footer:
     # 公安备案号，不填则只显示ICP
     police_text: 赣ICP备2024017884号-1
     # 公安备案的编号，用于URL跳转查询
-    police_code: <a href="https://beian.miit.gov.cn/" target="_blank">赣ICP备2024017884号</a>
+    police_code: <a href="https://beian.miit.gov.cn/" target="_blank">赣ICP备2024017884号-1</a>
     # 公安备案的图片. 为空时不显示备案图片
-    police_icon: /img/police_nanchang.png
+    police_icon: 
 
 
 #---------------------------
