@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://georgeJzzz.github.io/posts/%E6%BD%AE%E6%B1%95%E6%B8%B8%E7%8E%A9/</loc>
+    <loc>https://georgeJzzz.github.io/posts/%E6%B5%8B%E8%AF%95%E6%B5%8B%E8%AF%95/</loc>
   </url><url>
-    <loc>https://georgeJzzz.github.io/archives/</loc>
+    <loc>https://georgeJzzz.github.io/posts/%E6%BD%AE%E6%B1%95%E6%B8%B8%E7%8E%A9/</loc>
   </url><url>
     <loc>https://georgeJzzz.github.io/categories/</loc>
   </url><url>
@@ -15,8 +15,6 @@
     <loc>https://georgeJzzz.github.io/tags/obsidian/</loc>
   </url><url>
     <loc>https://georgeJzzz.github.io/posts/</loc>
-  </url><url>
-    <loc>https://georgeJzzz.github.io/search/</loc>
   </url><url>
     <loc>https://georgeJzzz.github.io/series/</loc>
   </url><url>
