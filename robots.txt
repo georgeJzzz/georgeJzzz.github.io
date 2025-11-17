@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://georgeJzzz.github.io/sitemap.xml
